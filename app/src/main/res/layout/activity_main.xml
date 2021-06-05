@@ -88,5 +88,20 @@
             android:layout_marginTop="3dp"
             android:id="@+id/textView4"/>
 
+    <TextView
+            android:textSize="32dp"
+            android:textStyle="bold"
+            android:textColor="@color/colorTwo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:id="@+id/ageInDays"/>
+    <TextView
+            android:text="Age in Days:"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3dp"
+            android:id="@+id/textView5"/>
+
 
 </LinearLayout>
